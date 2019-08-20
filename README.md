@@ -2,6 +2,7 @@
 REST 기능만 구현된 템플릿 입니다.
 
 ### 사전준비
+- GIT 설치
 - npm LTS 버전 설치
 - MariaDB 설치
 - Restlet 설치
