@@ -18,7 +18,7 @@ REST 기능만 구현된 템플릿 입니다.
 ### 개발가이드
 ※ 이 방법 외에도 편하신대로 하시면 됩니다.
 1. 새로운 테이블을 사용할 경우 Model 정보 작성 (/api/model/sample/Sample.js 참고)
-※ 실제 테이블명은 Model에 정의된 이름('sampleTable')에 's'가 붙은 "SAMPLE_TABLES"
+  ※ 실제 테이블명은 Model에 정의된 이름('sampleTable')에 's'가 붙은 "SAMPLE_TABLES"
 2. Routing 정보 작성 (/api/interface/sample/index.js 참고)
 3. Routing 후 수행할 controller 작성 (/api/interface/sample/sample.controller.js 참고)
 4. Routing 사용을 위해 app.js 에 등록
